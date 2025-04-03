@@ -1,34 +1,30 @@
-# Supreme Group - Frontend Development  
+# Supreme Group - Frontend
 
-This repository contains the **frontend implementation** of the **Supreme Group** website using **React, TypeScript, Vite, and Tailwind CSS**. The project follows modern best practices to ensure **performance, maintainability, and accessibility** while adhering to the provided Figma design.
+This is the frontend of the **Supreme Group** website, implemented using **React, TypeScript, and Vite**. The project follows modern best practices, focusing on performance, accessibility, and maintainability.
+
+## 🚀 Live Demo
+🔗 **[Supreme Group Website](https://supreme-group-sb.vercel.app/)**  
+
+## 📂 Repository
+🔗 **[GitHub Repository](https://github.com/S-B001/supreme-group-frontend.git)**  
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Tech Stack
+- **Frontend Framework**: React (with TypeScript)  
+- **Build Tool**: Vite (chosen for its fast performance)  
+- **Styling**: Tailwind CSS  
+- **State Management**: Not used, as the project doesn't require it currently  
+- **Deployment**: Vercel  
 
-| **Technology** | **Purpose** |
-|--------------|-------------|
-| **React** | Component-based UI development |
-| **TypeScript** | Type safety, reducing runtime errors |
-| **Vite** | Fast build tool with optimized performance |
-| **Tailwind CSS** | Utility-first CSS framework for styling |
-| **React Toastify** | Notifications & alerts |
-| **ESLint & Prettier** | Code quality & formatting |
+---
 
-## 📂 Project Structure  
-
-public/ -Images, icons, fonts and videos
-src/
-│── components/       # Reusable UI components (Header, Banner, Product, Contact, Footer)
-│── pages/            # Page components (Home.tsx)
-│── styles/           # Global styles (index.css)
-│── App.tsx           # Root component
-│── main.tsx          # Entry point
-│── vite.config.ts    # Vite configuration
-│── tsconfig.json     # TypeScript configuration
-│── package.json      # Dependencies & scripts
-│── README.md         # Project documentation
-
+## 📑 Features Implemented
+✅ **Component-Based Architecture** – Ensures modularity and reusability  
+✅ **Pixel-Perfect Design** – Adheres to the provided Figma file  
+✅ **Responsive Design** – Works across mobile, tablet, and desktop screens  
+✅ **Optimized Performance** – Uses lazy loading, code splitting, and image optimization  
+✅ **Accessibility** – Implements ARIA attributes and semantic HTML  
 
 # React + TypeScript + Vite
 
