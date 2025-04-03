@@ -14,7 +14,7 @@ This is the frontend of the **Supreme Group** website, implemented using **React
 - **Frontend Framework**: React (with TypeScript)  
 - **Build Tool**: Vite (chosen for its fast performance)  
 - **Styling**: Tailwind CSS  
-- **State Management**: Not used, as the project doesn't require it currently  
+- **State Management**: Used only for component-based state handling. 
 - **Deployment**: Vercel  
 
 ---
