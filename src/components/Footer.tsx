@@ -1,4 +1,3 @@
-import React from "react";
 import logo from '../../public/logo.webp'; 
 import footer from "../../public/footer.webp";
 
